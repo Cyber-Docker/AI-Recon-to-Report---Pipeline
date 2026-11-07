@@ -35,7 +35,7 @@ No cloud APIs, no external AI calls — everything runs locally.
 
 ---
 ## Screenshots
-![Lab Evidence](screenshots/lab_evidence.jpg)
+![Lab Evidence](lab_evidence.jpg)
 
 
 ## Lab Environment
