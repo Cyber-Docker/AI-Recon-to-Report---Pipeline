@@ -34,6 +34,9 @@ This mirrors a growing trend in the security industry: using AI to accelerate re
 No cloud APIs, no external AI calls — everything runs locally.
 
 ---
+## Screenshots
+![Lab Evidence](screenshots/lab_evidence.jpg)
+
 
 ## Lab Environment
 
